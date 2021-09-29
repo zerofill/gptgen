@@ -7,3 +7,4 @@ waitress
 flask_cors
 jsonify
 datetime
+boto3
