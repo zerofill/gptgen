@@ -7,4 +7,5 @@ waitress
 flask_cors
 jsonify
 datetime
+urllib3==1.26
 boto3
